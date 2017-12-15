@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#witten by TU
 
 exec 2> /tmp/setup.log
 
