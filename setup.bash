@@ -1,5 +1,6 @@
 #!/bin/bash -xve
-#Written by MT
+#witten by TU
+
 
 exec 2> /tmp/setup.log
 
